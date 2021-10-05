@@ -1,5 +1,5 @@
 # Cotizaciones_Aseguradora
-Aplicacion que te genera una cotizacion para un seguro.
+Aplicacion que te genera una cotizaciones para un seguro.
 
 ## Problema del Proyecto
 
